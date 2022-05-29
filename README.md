@@ -20,7 +20,7 @@ O aluno deve utilizar o arquivo INDEX.HTML em anexo, fazendo as alterações em 
 </div>
 <div align="center">
 
-<img height="300em" src="https://github.com/Ewertonalex/JavaScript/blob/master/2%C2%AA%20Avalia%C3%A7%C3%A3o.gif"> 
+<img height="600em" src="https://github.com/Ewertonalex/JavaScript/blob/master/2%C2%AA-Avalia%C3%A7%C3%A3ogit.gif"> 
 
 </div>
 
