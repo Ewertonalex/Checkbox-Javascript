@@ -18,6 +18,11 @@ Em anexo segue um arquivo HTML, chamado INDEX.HTML, que contem uma lista de comp
 O aluno deve utilizar o arquivo INDEX.HTML em anexo, fazendo as alterações em seu código que julgar necessária para atingir os objetivos da avaliação.
 
 </div>
+<div align="center">
+
+<img height="300em" src="https://github.com/Ewertonalex/JavaScript/blob/master/2%C2%AA%20Avalia%C3%A7%C3%A3o.gif"> 
+
+</div>
 
 ---
   
